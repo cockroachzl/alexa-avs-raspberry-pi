@@ -14,8 +14,8 @@
  * not need to modify those elements.
  */
 var config = {
-    clientId: '',
-    clientSecret: '',
+    clientId: 'amzn1.application-oa2-client.d07108e278b843a08757a3f7e336a692',
+    clientSecret: 'eb24aaf744cd73aac5496ff85bf0e2cd93499d567e79769c0a9313fa7a396177',
     redirectUrl: 'https://localhost:3000/authresponse',
     lwaRedirectHost: 'amazon.com',
     lwaApiHost: 'api.amazon.com',
